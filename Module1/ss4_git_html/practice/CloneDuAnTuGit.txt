@@ -1,0 +1,6 @@
+Mô tả: 
++Vào trang GitHub, copy link GitHub cá nhân(của em là https://github.com/kendulee41/A0222I2-LeVanHieu.git)
++Tạo 1 folder ở ổ E, không phải thư mục đang sử dụng.
++Kích chuột phải, chọn Git Bash Here.
++Nhập git clone & dán link GitHub vào, enter
+Ý nghĩa lệnh clone: dowload folder trên server GitHub về máy tính cá nhân

@@ -1,0 +1,7 @@
+git init: khởi tạo Repository mới.
+git remote add origin: kết nối tới Remote Repository.
+git add: ghi nhận có sự thay đổi.
+git commit: thực hiện thay đổi.
+git push: đấy các thay đổi ở local Repository lên Remote Repository.
+
+--Link GitHub:https://github.com/kendulee41/my-new-project.git
